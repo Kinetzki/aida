@@ -1,0 +1,31 @@
+\\ This is a prototype voice activated assisstant written in python
+\\ Please read each command carefully
+
+Command list				Function
+
+Aida help 				shows the list of possible commands
+
+Aida -question-				searches wikipedia for some answer
+						Example speech: "Aida who is Donald trump"
+Aida -phrase containing keyword "time"- checks the time
+
+Aida search -your-query-		searches google for results and opens at least 5
+					websites for you
+						Example Speech: "Aida search python programming"
+
+Aida define -your-word-			defines any single word you can think of and gives
+					its type etc.
+						Example speech: "Aida define mathematics"
+
+Aida solve what is the derivative of		gives the derivative of your given equation
+
+Aida solve square root of -integer-	this command returns the square root of a given integer
+
+Aida solve what is -equation-		this command solves basic mathematical problems like
+					addition, multiplication, subtraction, division and
+					exponents
+
+Aida -any sentence with "cases"-  	this command tells the current data about covid 19 cases,
+					recoveries, and even deaths
+
+Aida exit                      		exits the program
